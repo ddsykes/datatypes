@@ -71,7 +71,15 @@ Quick key Alt+shift+A - Windows
     //javascript = "Super!";
     console.log(today, javascript); // TypError
     
+    console.log("This message is a string");
+    let name ="Your name goes here";
+    console.log("Log:", name);
 
+    console.warn("This is a warning")
+    let warning ="uh oh";
+    console.warn("warn:", warning);
+
+    console.error("This is an error message");
 
          /* 
          

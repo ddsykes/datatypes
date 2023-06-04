@@ -274,5 +274,5 @@ console.log(`${nameSet}, how are you today?`);
 */
 
 (function(){
-    console.log("IIFE FIred")
+    console.log("IIFE Fired")
 })();

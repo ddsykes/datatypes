@@ -240,3 +240,33 @@ Age Challenge (if else):
         console.log("Sorry, you're too young to do anything fun.");
     }
 */
+
+//! QUIZ REFLECTION
+//* First
+let myNum = 17;
+
+if(myNum > 20) {
+    console.log("Not yet 20");
+} else if (myNum >= 20) {
+    console.log("Over 20");
+}
+
+//* Second
+let temp = 68;
+
+temp > 70 ? "It is summer" : "still spring";
+let respose = temp > 70 ? "It is summer" : "still spring";
+console.log("it is summer");
+console.log("still spring");
+
+//console.log(response)
+
+/**/ 
+
+let text = "This is a text"
+
+for (i in text) {
+
+console.log(i)
+
+}
